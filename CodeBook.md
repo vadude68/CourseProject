@@ -21,7 +21,7 @@ The activity data correspond to the following activities(same as in HARUSDS):
 
 ##Variables
 
-The "subject" variable refers to one of the thrity subjects studied.  The "activity" variable refers to one of the six activities listed above. The other variable names derive from the variables in the HARUSDS, with the prefix "mean" added.  Though the variable names do not always seem easily understandable to a layman, they are highly descriptive of a particular measurement or motion and thus meaningful to people who will use this data for further study. The HARUSDS variables have also been made easier to work with--upper case letters have been changed to lower case, and dashes and parentheses have been removed. The following are the 68 variables in this dataset:
+The "subject" variable refers to one of the thrity subjects studied.  The "activity" variable refers to one of the six activities listed above. The other variable names derive from the variables in the HARUSDS, with the prefix "mean" added.  Though the variable names do not always seem easily understandable to a layman, they are highly descriptive of a particular measurement or motion and thus meaningful to people who will use this data for further study. The HARUSDS variables have also been made easier to work with--upper case letters have been changed to lower case, and dashes and parentheses have been removed. The HARUSDS provided no information on the variable units other than to note that they "are normalized and bounded within [-1,1]."  The following are the 68 variables in this dataset:
 
 subject
 activity
